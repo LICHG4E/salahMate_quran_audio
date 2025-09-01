@@ -1,6 +1,5 @@
 # Ignore large audio directories (don't push huge mp3s by default)
-high_quality_audio/
-low_quality_audio/
+
 
 # JetBrains IDE
 .idea/
