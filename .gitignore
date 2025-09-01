@@ -1,0 +1,15 @@
+# Ignore large audio directories (don't push huge mp3s by default)
+high_quality_audio/
+low_quality_audio/
+
+# JetBrains IDE
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Node, Python, etc. (add as needed)
+node_modules/
+__pycache__/
