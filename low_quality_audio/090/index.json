@@ -1,0 +1,113 @@
+{
+  "index": "090",
+  "verse": {
+    "verse_1": {
+      "file": "000.mp3",
+      "size": 10989,
+      "unit": "10.73 KB"
+    },
+    "verse_2": {
+      "file": "001.mp3",
+      "size": 10623,
+      "unit": "10.37 KB"
+    },
+    "verse_3": {
+      "file": "002.mp3",
+      "size": 8324,
+      "unit": "8.13 KB"
+    },
+    "verse_4": {
+      "file": "003.mp3",
+      "size": 6757,
+      "unit": "6.60 KB"
+    },
+    "verse_5": {
+      "file": "004.mp3",
+      "size": 9526,
+      "unit": "9.30 KB"
+    },
+    "verse_6": {
+      "file": "005.mp3",
+      "size": 12138,
+      "unit": "11.85 KB"
+    },
+    "verse_7": {
+      "file": "006.mp3",
+      "size": 8638,
+      "unit": "8.44 KB"
+    },
+    "verse_8": {
+      "file": "007.mp3",
+      "size": 9578,
+      "unit": "9.35 KB"
+    },
+    "verse_9": {
+      "file": "008.mp3",
+      "size": 6600,
+      "unit": "6.45 KB"
+    },
+    "verse_10": {
+      "file": "009.mp3",
+      "size": 5973,
+      "unit": "5.83 KB"
+    },
+    "verse_11": {
+      "file": "010.mp3",
+      "size": 9108,
+      "unit": "8.89 KB"
+    },
+    "verse_12": {
+      "file": "011.mp3",
+      "size": 4876,
+      "unit": "4.76 KB"
+    },
+    "verse_13": {
+      "file": "012.mp3",
+      "size": 8063,
+      "unit": "7.87 KB"
+    },
+    "verse_14": {
+      "file": "013.mp3",
+      "size": 7593,
+      "unit": "7.42 KB"
+    },
+    "verse_15": {
+      "file": "014.mp3",
+      "size": 10466,
+      "unit": "10.22 KB"
+    },
+    "verse_16": {
+      "file": "015.mp3",
+      "size": 7436,
+      "unit": "7.26 KB"
+    },
+    "verse_17": {
+      "file": "016.mp3",
+      "size": 8011,
+      "unit": "7.82 KB"
+    },
+    "verse_18": {
+      "file": "017.mp3",
+      "size": 20550,
+      "unit": "20.07 KB"
+    },
+    "verse_19": {
+      "file": "018.mp3",
+      "size": 11041,
+      "unit": "10.78 KB"
+    },
+    "verse_20": {
+      "file": "019.mp3",
+      "size": 13078,
+      "unit": "12.77 KB"
+    },
+    "verse_21": {
+      "file": "020.mp3",
+      "size": 7645,
+      "unit": "7.47 KB"
+    }
+  },
+  "count": 21,
+  "total": 197013,
+  "total_unit": "192.40 KB"
+}

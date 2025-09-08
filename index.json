@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "folder": "high_quality_audio",
+      "total": 445442479,
+      "total_unit": "424.81 MB"
+    },
+    {
+      "folder": "low_quality_audio",
+      "total": 179951202,
+      "total_unit": "171.61 MB"
+    }
+  ],
+  "total": 625393681,
+  "total_unit": "596.42 MB"
+}

@@ -1,0 +1,576 @@
+{
+  "total": 179951202,
+  "total_unit": "171.61 MB",
+  "surahs": [
+    {
+      "index": "001",
+      "total": 84340,
+      "total_unit": "82.36 KB"
+    },
+    {
+      "index": "002",
+      "total": 14218599,
+      "total_unit": "13.56 MB"
+    },
+    {
+      "index": "003",
+      "total": 7937225,
+      "total_unit": "7.57 MB"
+    },
+    {
+      "index": "004",
+      "total": 8827897,
+      "total_unit": "8.42 MB"
+    },
+    {
+      "index": "005",
+      "total": 6068243,
+      "total_unit": "5.79 MB"
+    },
+    {
+      "index": "006",
+      "total": 6717222,
+      "total_unit": "6.41 MB"
+    },
+    {
+      "index": "007",
+      "total": 7771714,
+      "total_unit": "7.41 MB"
+    },
+    {
+      "index": "008",
+      "total": 2727191,
+      "total_unit": "2.60 MB"
+    },
+    {
+      "index": "009",
+      "total": 5902979,
+      "total_unit": "5.63 MB"
+    },
+    {
+      "index": "010",
+      "total": 4270986,
+      "total_unit": "4.07 MB"
+    },
+    {
+      "index": "011",
+      "total": 4356596,
+      "total_unit": "4.15 MB"
+    },
+    {
+      "index": "012",
+      "total": 3901648,
+      "total_unit": "3.72 MB"
+    },
+    {
+      "index": "013",
+      "total": 1809948,
+      "total_unit": "1.73 MB"
+    },
+    {
+      "index": "014",
+      "total": 2164585,
+      "total_unit": "2.06 MB"
+    },
+    {
+      "index": "015",
+      "total": 1695767,
+      "total_unit": "1.62 MB"
+    },
+    {
+      "index": "016",
+      "total": 4139348,
+      "total_unit": "3.95 MB"
+    },
+    {
+      "index": "017",
+      "total": 3510277,
+      "total_unit": "3.35 MB"
+    },
+    {
+      "index": "018",
+      "total": 3535764,
+      "total_unit": "3.37 MB"
+    },
+    {
+      "index": "019",
+      "total": 2141343,
+      "total_unit": "2.04 MB"
+    },
+    {
+      "index": "020",
+      "total": 2763232,
+      "total_unit": "2.64 MB"
+    },
+    {
+      "index": "021",
+      "total": 3047990,
+      "total_unit": "2.91 MB"
+    },
+    {
+      "index": "022",
+      "total": 3009206,
+      "total_unit": "2.87 MB"
+    },
+    {
+      "index": "023",
+      "total": 2671297,
+      "total_unit": "2.55 MB"
+    },
+    {
+      "index": "024",
+      "total": 3185136,
+      "total_unit": "3.04 MB"
+    },
+    {
+      "index": "025",
+      "total": 2018106,
+      "total_unit": "1.92 MB"
+    },
+    {
+      "index": "026",
+      "total": 2909448,
+      "total_unit": "2.77 MB"
+    },
+    {
+      "index": "027",
+      "total": 2853831,
+      "total_unit": "2.72 MB"
+    },
+    {
+      "index": "028",
+      "total": 2990211,
+      "total_unit": "2.85 MB"
+    },
+    {
+      "index": "029",
+      "total": 2416651,
+      "total_unit": "2.30 MB"
+    },
+    {
+      "index": "030",
+      "total": 1785215,
+      "total_unit": "1.70 MB"
+    },
+    {
+      "index": "031",
+      "total": 1143147,
+      "total_unit": "1.09 MB"
+    },
+    {
+      "index": "032",
+      "total": 866809,
+      "total_unit": "846.49 KB"
+    },
+    {
+      "index": "033",
+      "total": 3088847,
+      "total_unit": "2.95 MB"
+    },
+    {
+      "index": "034",
+      "total": 2047536,
+      "total_unit": "1.95 MB"
+    },
+    {
+      "index": "035",
+      "total": 1729425,
+      "total_unit": "1.65 MB"
+    },
+    {
+      "index": "036",
+      "total": 1603277,
+      "total_unit": "1.53 MB"
+    },
+    {
+      "index": "037",
+      "total": 2194359,
+      "total_unit": "2.09 MB"
+    },
+    {
+      "index": "038",
+      "total": 1789460,
+      "total_unit": "1.71 MB"
+    },
+    {
+      "index": "039",
+      "total": 2840977,
+      "total_unit": "2.71 MB"
+    },
+    {
+      "index": "040",
+      "total": 2695964,
+      "total_unit": "2.57 MB"
+    },
+    {
+      "index": "041",
+      "total": 1859090,
+      "total_unit": "1.77 MB"
+    },
+    {
+      "index": "042",
+      "total": 1868164,
+      "total_unit": "1.78 MB"
+    },
+    {
+      "index": "043",
+      "total": 2022806,
+      "total_unit": "1.93 MB"
+    },
+    {
+      "index": "044",
+      "total": 842965,
+      "total_unit": "823.21 KB"
+    },
+    {
+      "index": "045",
+      "total": 1090541,
+      "total_unit": "1.04 MB"
+    },
+    {
+      "index": "046",
+      "total": 1443417,
+      "total_unit": "1.38 MB"
+    },
+    {
+      "index": "047",
+      "total": 1192274,
+      "total_unit": "1.14 MB"
+    },
+    {
+      "index": "048",
+      "total": 1250321,
+      "total_unit": "1.19 MB"
+    },
+    {
+      "index": "049",
+      "total": 782746,
+      "total_unit": "764.40 KB"
+    },
+    {
+      "index": "050",
+      "total": 881118,
+      "total_unit": "860.47 KB"
+    },
+    {
+      "index": "051",
+      "total": 849409,
+      "total_unit": "829.50 KB"
+    },
+    {
+      "index": "052",
+      "total": 742795,
+      "total_unit": "725.39 KB"
+    },
+    {
+      "index": "053",
+      "total": 880108,
+      "total_unit": "859.48 KB"
+    },
+    {
+      "index": "054",
+      "total": 809511,
+      "total_unit": "790.54 KB"
+    },
+    {
+      "index": "055",
+      "total": 1046781,
+      "total_unit": "1022.25 KB"
+    },
+    {
+      "index": "056",
+      "total": 1036806,
+      "total_unit": "1012.51 KB"
+    },
+    {
+      "index": "057",
+      "total": 1359514,
+      "total_unit": "1.30 MB"
+    },
+    {
+      "index": "058",
+      "total": 1065618,
+      "total_unit": "1.02 MB"
+    },
+    {
+      "index": "059",
+      "total": 1004264,
+      "total_unit": "980.73 KB"
+    },
+    {
+      "index": "060",
+      "total": 840496,
+      "total_unit": "820.80 KB"
+    },
+    {
+      "index": "061",
+      "total": 505153,
+      "total_unit": "493.31 KB"
+    },
+    {
+      "index": "062",
+      "total": 384521,
+      "total_unit": "375.51 KB"
+    },
+    {
+      "index": "063",
+      "total": 403015,
+      "total_unit": "393.57 KB"
+    },
+    {
+      "index": "064",
+      "total": 545869,
+      "total_unit": "533.08 KB"
+    },
+    {
+      "index": "065",
+      "total": 643673,
+      "total_unit": "628.59 KB"
+    },
+    {
+      "index": "066",
+      "total": 585421,
+      "total_unit": "571.70 KB"
+    },
+    {
+      "index": "067",
+      "total": 776999,
+      "total_unit": "758.79 KB"
+    },
+    {
+      "index": "068",
+      "total": 731348,
+      "total_unit": "714.21 KB"
+    },
+    {
+      "index": "069",
+      "total": 678110,
+      "total_unit": "662.22 KB"
+    },
+    {
+      "index": "070",
+      "total": 572333,
+      "total_unit": "558.92 KB"
+    },
+    {
+      "index": "071",
+      "total": 532721,
+      "total_unit": "520.24 KB"
+    },
+    {
+      "index": "072",
+      "total": 616625,
+      "total_unit": "602.17 KB"
+    },
+    {
+      "index": "073",
+      "total": 475325,
+      "total_unit": "464.18 KB"
+    },
+    {
+      "index": "074",
+      "total": 610425,
+      "total_unit": "596.12 KB"
+    },
+    {
+      "index": "075",
+      "total": 374154,
+      "total_unit": "365.38 KB"
+    },
+    {
+      "index": "076",
+      "total": 580261,
+      "total_unit": "566.66 KB"
+    },
+    {
+      "index": "077",
+      "total": 500812,
+      "total_unit": "489.07 KB"
+    },
+    {
+      "index": "078",
+      "total": 491182,
+      "total_unit": "479.67 KB"
+    },
+    {
+      "index": "079",
+      "total": 454246,
+      "total_unit": "443.60 KB"
+    },
+    {
+      "index": "080",
+      "total": 383749,
+      "total_unit": "374.75 KB"
+    },
+    {
+      "index": "081",
+      "total": 256831,
+      "total_unit": "250.81 KB"
+    },
+    {
+      "index": "082",
+      "total": 208958,
+      "total_unit": "204.06 KB"
+    },
+    {
+      "index": "083",
+      "total": 464574,
+      "total_unit": "453.69 KB"
+    },
+    {
+      "index": "084",
+      "total": 261830,
+      "total_unit": "255.69 KB"
+    },
+    {
+      "index": "085",
+      "total": 282989,
+      "total_unit": "276.36 KB"
+    },
+    {
+      "index": "086",
+      "total": 156941,
+      "total_unit": "153.26 KB"
+    },
+    {
+      "index": "087",
+      "total": 167060,
+      "total_unit": "163.14 KB"
+    },
+    {
+      "index": "088",
+      "total": 234158,
+      "total_unit": "228.67 KB"
+    },
+    {
+      "index": "089",
+      "total": 353346,
+      "total_unit": "345.06 KB"
+    },
+    {
+      "index": "090",
+      "total": 197013,
+      "total_unit": "192.40 KB"
+    },
+    {
+      "index": "091",
+      "total": 147190,
+      "total_unit": "143.74 KB"
+    },
+    {
+      "index": "092",
+      "total": 190814,
+      "total_unit": "186.34 KB"
+    },
+    {
+      "index": "093",
+      "total": 109557,
+      "total_unit": "106.99 KB"
+    },
+    {
+      "index": "094",
+      "total": 65723,
+      "total_unit": "64.18 KB"
+    },
+    {
+      "index": "095",
+      "total": 98741,
+      "total_unit": "96.43 KB"
+    },
+    {
+      "index": "096",
+      "total": 168939,
+      "total_unit": "164.98 KB"
+    },
+    {
+      "index": "097",
+      "total": 74605,
+      "total_unit": "72.86 KB"
+    },
+    {
+      "index": "098",
+      "total": 224547,
+      "total_unit": "219.28 KB"
+    },
+    {
+      "index": "099",
+      "total": 97383,
+      "total_unit": "95.10 KB"
+    },
+    {
+      "index": "100",
+      "total": 115720,
+      "total_unit": "113.01 KB"
+    },
+    {
+      "index": "101",
+      "total": 102921,
+      "total_unit": "100.51 KB"
+    },
+    {
+      "index": "102",
+      "total": 88084,
+      "total_unit": "86.02 KB"
+    },
+    {
+      "index": "103",
+      "total": 42700,
+      "total_unit": "41.70 KB"
+    },
+    {
+      "index": "104",
+      "total": 90764,
+      "total_unit": "88.64 KB"
+    },
+    {
+      "index": "105",
+      "total": 65462,
+      "total_unit": "63.93 KB"
+    },
+    {
+      "index": "106",
+      "total": 61525,
+      "total_unit": "60.08 KB"
+    },
+    {
+      "index": "107",
+      "total": 81588,
+      "total_unit": "79.68 KB"
+    },
+    {
+      "index": "108",
+      "total": 35857,
+      "total_unit": "35.02 KB"
+    },
+    {
+      "index": "109",
+      "total": 79585,
+      "total_unit": "77.72 KB"
+    },
+    {
+      "index": "110",
+      "total": 53933,
+      "total_unit": "52.67 KB"
+    },
+    {
+      "index": "111",
+      "total": 63163,
+      "total_unit": "61.68 KB"
+    },
+    {
+      "index": "112",
+      "total": 34045,
+      "total_unit": "33.25 KB"
+    },
+    {
+      "index": "113",
+      "total": 56947,
+      "total_unit": "55.61 KB"
+    },
+    {
+      "index": "114",
+      "total": 71227,
+      "total_unit": "69.56 KB"
+    }
+  ]
+}

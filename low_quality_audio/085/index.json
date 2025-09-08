@@ -1,0 +1,123 @@
+{
+  "index": "085",
+  "verse": {
+    "verse_1": {
+      "file": "000.mp3",
+      "size": 10675,
+      "unit": "10.42 KB"
+    },
+    "verse_2": {
+      "file": "001.mp3",
+      "size": 8742,
+      "unit": "8.54 KB"
+    },
+    "verse_3": {
+      "file": "002.mp3",
+      "size": 4510,
+      "unit": "4.40 KB"
+    },
+    "verse_4": {
+      "file": "003.mp3",
+      "size": 11563,
+      "unit": "11.29 KB"
+    },
+    "verse_5": {
+      "file": "004.mp3",
+      "size": 6705,
+      "unit": "6.55 KB"
+    },
+    "verse_6": {
+      "file": "005.mp3",
+      "size": 6391,
+      "unit": "6.24 KB"
+    },
+    "verse_7": {
+      "file": "006.mp3",
+      "size": 8742,
+      "unit": "8.54 KB"
+    },
+    "verse_8": {
+      "file": "007.mp3",
+      "size": 13967,
+      "unit": "13.64 KB"
+    },
+    "verse_9": {
+      "file": "008.mp3",
+      "size": 22274,
+      "unit": "21.75 KB"
+    },
+    "verse_10": {
+      "file": "009.mp3",
+      "size": 23736,
+      "unit": "23.18 KB"
+    },
+    "verse_11": {
+      "file": "010.mp3",
+      "size": 39096,
+      "unit": "38.18 KB"
+    },
+    "verse_12": {
+      "file": "011.mp3",
+      "size": 32723,
+      "unit": "31.96 KB"
+    },
+    "verse_13": {
+      "file": "012.mp3",
+      "size": 7384,
+      "unit": "7.21 KB"
+    },
+    "verse_14": {
+      "file": "013.mp3",
+      "size": 7332,
+      "unit": "7.16 KB"
+    },
+    "verse_15": {
+      "file": "014.mp3",
+      "size": 5294,
+      "unit": "5.17 KB"
+    },
+    "verse_16": {
+      "file": "015.mp3",
+      "size": 11929,
+      "unit": "11.65 KB"
+    },
+    "verse_17": {
+      "file": "016.mp3",
+      "size": 8272,
+      "unit": "8.08 KB"
+    },
+    "verse_18": {
+      "file": "017.mp3",
+      "size": 6234,
+      "unit": "6.09 KB"
+    },
+    "verse_19": {
+      "file": "018.mp3",
+      "size": 7802,
+      "unit": "7.62 KB"
+    },
+    "verse_20": {
+      "file": "019.mp3",
+      "size": 8533,
+      "unit": "8.33 KB"
+    },
+    "verse_21": {
+      "file": "020.mp3",
+      "size": 13653,
+      "unit": "13.33 KB"
+    },
+    "verse_22": {
+      "file": "021.mp3",
+      "size": 10048,
+      "unit": "9.81 KB"
+    },
+    "verse_23": {
+      "file": "022.mp3",
+      "size": 7384,
+      "unit": "7.21 KB"
+    }
+  },
+  "count": 23,
+  "total": 282989,
+  "total_unit": "276.36 KB"
+}

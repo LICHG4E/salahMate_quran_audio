@@ -1,0 +1,108 @@
+{
+  "index": "087",
+  "verse": {
+    "verse_1": {
+      "file": "000.mp3",
+      "size": 10884,
+      "unit": "10.63 KB"
+    },
+    "verse_2": {
+      "file": "001.mp3",
+      "size": 6130,
+      "unit": "5.99 KB"
+    },
+    "verse_3": {
+      "file": "002.mp3",
+      "size": 4824,
+      "unit": "4.71 KB"
+    },
+    "verse_4": {
+      "file": "003.mp3",
+      "size": 5294,
+      "unit": "5.17 KB"
+    },
+    "verse_5": {
+      "file": "004.mp3",
+      "size": 7227,
+      "unit": "7.06 KB"
+    },
+    "verse_6": {
+      "file": "005.mp3",
+      "size": 9787,
+      "unit": "9.56 KB"
+    },
+    "verse_7": {
+      "file": "006.mp3",
+      "size": 9317,
+      "unit": "9.10 KB"
+    },
+    "verse_8": {
+      "file": "007.mp3",
+      "size": 19348,
+      "unit": "18.89 KB"
+    },
+    "verse_9": {
+      "file": "008.mp3",
+      "size": 5921,
+      "unit": "5.78 KB"
+    },
+    "verse_10": {
+      "file": "009.mp3",
+      "size": 7750,
+      "unit": "7.57 KB"
+    },
+    "verse_11": {
+      "file": "010.mp3",
+      "size": 6809,
+      "unit": "6.65 KB"
+    },
+    "verse_12": {
+      "file": "011.mp3",
+      "size": 5451,
+      "unit": "5.32 KB"
+    },
+    "verse_13": {
+      "file": "012.mp3",
+      "size": 8376,
+      "unit": "8.18 KB"
+    },
+    "verse_14": {
+      "file": "013.mp3",
+      "size": 12243,
+      "unit": "11.96 KB"
+    },
+    "verse_15": {
+      "file": "014.mp3",
+      "size": 6809,
+      "unit": "6.65 KB"
+    },
+    "verse_16": {
+      "file": "015.mp3",
+      "size": 7541,
+      "unit": "7.36 KB"
+    },
+    "verse_17": {
+      "file": "016.mp3",
+      "size": 8690,
+      "unit": "8.49 KB"
+    },
+    "verse_18": {
+      "file": "017.mp3",
+      "size": 9108,
+      "unit": "8.89 KB"
+    },
+    "verse_19": {
+      "file": "018.mp3",
+      "size": 7488,
+      "unit": "7.31 KB"
+    },
+    "verse_20": {
+      "file": "019.mp3",
+      "size": 8063,
+      "unit": "7.87 KB"
+    }
+  },
+  "count": 20,
+  "total": 167060,
+  "total_unit": "163.14 KB"
+}
